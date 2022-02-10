@@ -16,6 +16,7 @@ public class DemoGithub
 	 
 	 DemoGithub d=new DemoGithub();
 	 d.m1();
+	 d.m2();
   }
 	
 }
